@@ -1,0 +1,8 @@
+git_branch_name
+git_is_repo
+git_is_dirty
+git_is_staged
+git_is_touched
+git_is_stashed
+git_is_empty
+git_is_detached_head
